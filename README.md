@@ -1,5 +1,5 @@
 # RUST, AXUM Web Framework, SQLX and MySQL 
-To explore how to use Rust, Axum Web Framework, SQLX, and MySQL to build a simple CRUD (Create, Read, Update, Delete) API.
+Re-arrange the structure with model and handlers.
 
 ## Topics Covered
 
@@ -18,3 +18,6 @@ To explore how to use Rust, Axum Web Framework, SQLX, and MySQL to build a simpl
     - Perform the UPDATE Operation of CRUD
     - Perform the READ Operation of CRUD
     - Perform the DELETE Operation of CRUD
+- How to run  
+    - Run sql script in mysql query terminal
+    - Run the code with "cargo run"
